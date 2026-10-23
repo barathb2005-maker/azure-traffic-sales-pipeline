@@ -5,7 +5,7 @@ An enterprise-grade, end-to-end data pipeline built from scratch, integrating **
 ---
 
 ## 📊 Dashboard Preview
-> dashboard_screenshot.png
+![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
