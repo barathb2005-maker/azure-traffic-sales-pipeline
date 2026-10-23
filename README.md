@@ -5,7 +5,7 @@ An enterprise-grade, end-to-end data pipeline built from scratch, integrating **
 ---
 
 ## 📊 Dashboard Preview
-> ![Web Traffic & Sales Analytics Dashboard](image_d5ac04.png)[cite: 5]
+> dashboard_screenshot.png
 
 ---
 
